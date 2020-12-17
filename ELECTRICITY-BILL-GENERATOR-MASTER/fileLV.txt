@@ -1,0 +1,48 @@
+LV-1: Domestic Consumer[DC]:-
+
+          This tariff is applicable to domestic  light and fan and power  used  for all 
+          domesticappliances , in residential premises,  orphanages,  homes  for old or
+          physically  challengedpeople  and homes  for destitute; dharamshalas  student 
+          hostels; working women'shostels; ashrams; schools  and  hospitals  (including 
+          X-rays, etc.) run by charitable trusts;centers, schools and  hospitals run by
+          non-profit  organizations / societies registeredhomes  for differently  abled 
+          and mentally retarded , de-addiction and  rehabilitationunder  the  Firms and 
+          Societies Act; Government hospitals/dispensaries,  (excludingprivate  clinics 
+          and nursing homes); Government Schools; farm houses; mosques;temples;churches
+          gurudwaras; religious & spiritual institutions ; water works andstreet lights 
+          in private  colonies  and  cooperative  societies ; common facilities such as 
+          lighting in staircase, lifts, fire-fighting in multi-storied housing complex, 
+          light && fanin khalihan, kothar, byra where agriculture produce is kept, post
+          office at  residence ofa villager; residential premises of professionals such 
+          as advocates, doctors, artists,consultants, weavers, bidi makers, beauticians 
+          stitching  and  embroidery workersincluding  their  chambers ; public toilets
+          fractional HP motors used for Shailchak byKumhars in their  residences ; zero 
+          waste centre compost unit.
+
+
+ HV-2: Non-Domestic Consumer[NDC]:-
+
+          This tariff is  applicable to light  and fan  and power  to shops , showrooms
+          businesshouses , offices, educational institutions (except those included  in 
+          LV-1 and LV-5),public buildings, Warehouses, town halls, clubs, gymnasium and 
+          health clubs, meetinghalls, places  of public entertainment , circus , hotels 
+          cinemas, railway stations, privateclinics  and nursing homes including X-rays 
+          plant, diagnostic centres, pathological labs ,carpenters and furniture makers 
+          juice  centres , hoardings and advertisement  services , public libraries and 
+          reading rooms, typing institutes, internet cafes, STD/ISD PCO’s,Mobile Towers 
+          coaching  centres , FAX / photocopy  shops, tailoring shops,photographers and 
+          colour labs, laundries , cycle shops , compressors for filling air, toymaking 
+          industry, nickel plating on small scale , restaurants , eating establishments
+          Government  circuit houses / rest houses , guest houses  , marriage  gardens, 
+          farmhousesbeing used for commercial purposes , book binders , offset printers 
+          bakery shop, banks,parlours, printing press , computer centre , petrol  pumps
+          and service stations,electriccharging centres  for Vehicles, Registered Women 
+          self-help  group , HV industrialconsumers  seeking  separate  independent  LV 
+          connection in the same premises of HV industrial connection & other consumers 
+          not covered under any other category ofLV consumers.
+
+
+        press 1 for Domestic Consumer [DC]
+        press 2 for Non-Domestic Consumer [NDC]
+
+	Enter your choice:-

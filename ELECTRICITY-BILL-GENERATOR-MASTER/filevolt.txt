@@ -1,0 +1,18 @@
+1] Tariff Schedule for Low Voltage (LV) Consumers:-
+   
+    This tariff schedule is applicable to all LV consumers as follows:
+        a) Single-phase, 230 Volts up to a maximum connected load of 3 kW.
+        b) Three-phase, 400 Volts for maximum demand up to 112.5 kW in case of demand
+           based tariff or for maximum contracted load of 150 HP in case of other tariff, as
+           applicable.
+
+2] Tariff Schedule for High Voltage (HV) Consumers:-
+
+    This tariff schedule is applicable to all HV consumers as follows:
+        a)medium-voltage,2000 Volts up to 33000 Volts.
+        b)High-Voltage,above 50000 Volts.
+
+    press 1 for Low Voltage[LV]
+    press 2 for High Voltage[HV]
+
+    Enter your choice:

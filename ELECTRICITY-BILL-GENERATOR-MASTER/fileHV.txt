@@ -1,0 +1,21 @@
+HV-1: Railway Traction
+          This tariff is applicable to the Railways for traction loads only.
+
+HV-2: Other Industrial and General Purpose Non-Industrial
+          This tariff is applicable for bulk supply at one point to establishment such as
+          Railways (other than traction), hospitals, offices, hotels, shopping malls, electric
+          charging centres for Vehicles,power supplied to outside of State (border villages),
+          educational institutions, mixture and/or stone crushers and other institutions, etc.,
+    
+HV-3: Residential
+          This tariff shall be applicable for bulk supply at one point to colonies, multi-storied
+          residential buildings, townships, including townships of industries provided that
+          consumption of non-domestic nature for other general purpose load (excluding drinking
+          water supply, sewage pumping and street light) shall not be more than 10% of total
+          monthly energy consumption
+
+    press 1 for Railway Traction
+    press 2 for Other Industrial and General Purpose Non-Industrial
+    press 3 for Residential
+
+    Enter your choice: 

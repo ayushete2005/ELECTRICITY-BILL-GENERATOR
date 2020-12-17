@@ -1,0 +1,29 @@
+Category I     Domestic A
+Category II    Domestic B
+Category III   Domestic C
+
+Domestic A
+    This Tariff shall be applicable for supply of power to any premises exclsively
+    for the purpose of requirement with a Connected Load of not more  than 0.5 kW  and 
+    consumption up to 1kWh/day or 30kWh/day per month.
+
+Domestic B
+    This Tariff  shall  be  applicable  for  supply  of power to  consumers having 
+    conceted load  below 5kW for residental premises, exclusive for  domestic  purpose 
+    only . this shall  also  include  supply of power to occupants  of flats in multi-
+    storied buildings, if the premises have not been classified under Domestic B or HT
+    Domestic and receiving bulk power at single points without any individual metering
+    arrangement for domestic purposes.
+
+Domestic C
+    This Tariff shall be applicable for supply of power to consumer having conceted
+    Load of 5kW and above up to 25kW exclusively for domestic purpuses only. This shall
+    also include bilk supply at single point for supply to occupants of flats in multi-
+    storied buildings having  individual metering for domestic purposes.
+
+
+    press 1 for Domestic A (Category I)
+    press 2 for Domestic B (Category II)
+    press 3 for Domestic C (Category III)
+
+Enter your choice: 
