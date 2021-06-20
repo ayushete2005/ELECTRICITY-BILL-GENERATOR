@@ -1,4 +1,5 @@
-    # Electricity_Bill_Generator
+   # [Electricity_Bill_Generator](https://github.com/ayushete2005/ELECTRICITY-BILL-GENERATOR/)
+   DEMO : 
 
 
     Please enter your Name: Ayush
